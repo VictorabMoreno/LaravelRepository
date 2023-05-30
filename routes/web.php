@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return 'O app está funcionando';
+    return 'O app está funcionando legal';
 });
